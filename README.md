@@ -7,7 +7,7 @@
 
 **Curs:** 2023-2024
 
-![Imatge decorativa generada per IA mostrant la diferència entre xarxes socials](https://raw.githubusercontent.com/Elimbos/PAC3_Manovich_Reloaded/Imatges/TikTok-LinkedIn.jpg?token=GHSAT0AAAAAACSVBBMPUM4TAYPTWFF6SKIKZSSCASQ "Imatge decorativa generada per IA mostrant la diferència entre xarxes socials")
+![Imatge decorativa generada per IA mostrant la diferència entre xarxes socials](https://raw.githubusercontent.com/Elimbos/PAC3_Manovich_Reloaded/main/TikTok-LinkedIn.jpg) "Imatge decorativa generada per IA mostrant la diferència entre xarxes socials")
 
 ## Plantejament
 
