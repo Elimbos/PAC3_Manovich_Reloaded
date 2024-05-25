@@ -97,3 +97,7 @@ En conclusió, *LinkedIn* és una plataforma que combina funcionalitats molt int
   <small>*L’estructura ha de ser la següent:*
 *1. Text corregit.*
 *2. Enumeració de les correccions i canvis realitzats.”*<small>
+
+----
+
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0
