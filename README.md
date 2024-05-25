@@ -102,4 +102,5 @@ En conclusió, *LinkedIn* és una plataforma que combina funcionalitats molt int
 
 #### Llicència:
 Material Creative Commons sota llicència [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca). 
+
 Imatge generada per IA mitjançant DALL-E d'OpenAI. Aquesta imatge està llicenciada sota la llicència [CC BY](https://creativecommons.org/licenses/by/4.0/deed.ca) 
